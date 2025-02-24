@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameWiki</string>
+    <string name="game_logo">Logo Game</string>
+    <string name="game_image">Gambar Game</string>
+</resources>
